@@ -160,6 +160,7 @@ function renderizarRed() {
             if (conducta.includes("abuso")) shape = "dot";
             else if (conducta.includes("colusión")) shape = "triangle";
             else if (conducta.includes("incumplimiento")) shape = "square";
+            else shape = "diamond";
 
             return {
                 id,
