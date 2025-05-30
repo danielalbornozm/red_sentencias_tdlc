@@ -1,0 +1,4889 @@
+[
+  {
+    "Sentencia A": "102",
+    "Sentencia B": "94",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "106",
+    "Sentencia B": "75",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Vehículos Motorizados"
+  },
+  {
+    "Sentencia A": "109",
+    "Sentencia B": "86",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "109",
+    "Sentencia B": "106",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "109",
+    "Sentencia B": "57",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "109",
+    "Sentencia B": "59",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "109",
+    "Sentencia B": "75",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "110",
+    "Sentencia B": "75",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "110",
+    "Sentencia B": "39",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "110",
+    "Sentencia B": "72",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "112",
+    "Sentencia B": "106",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "112",
+    "Sentencia B": "43",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "114",
+    "Sentencia B": "77",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "114",
+    "Sentencia B": "89",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "115",
+    "Sentencia B": "26",
+    "anio": 2011,
+    "Frecuencia": 33,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Tabaco"
+  },
+  {
+    "Sentencia A": "117",
+    "Sentencia B": "86",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "117",
+    "Sentencia B": "97",
+    "anio": 2011,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "119",
+    "Sentencia B": "94",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "120",
+    "Sentencia B": "114",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "121",
+    "Sentencia B": "105",
+    "anio": 2012,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "122",
+    "Sentencia B": "117",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "122",
+    "Sentencia B": "57",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "122",
+    "Sentencia B": "119",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "123",
+    "Sentencia B": "110",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "123",
+    "Sentencia B": "57",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "123",
+    "Sentencia B": "59",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "123",
+    "Sentencia B": "75",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "124",
+    "Sentencia B": "115",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "124",
+    "Sentencia B": "75",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "124",
+    "Sentencia B": "85",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "124",
+    "Sentencia B": "86",
+    "anio": 2012,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "129",
+    "Sentencia B": "124",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "129",
+    "Sentencia B": "88",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "129",
+    "Sentencia B": "53",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "130",
+    "Sentencia B": "30",
+    "anio": 2013,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "130",
+    "Sentencia B": "50",
+    "anio": 2013,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "130",
+    "Sentencia B": "62",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "113",
+    "anio": 2013,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "114",
+    "anio": 2013,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "121",
+    "anio": 2013,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "89",
+    "anio": 2013,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "92",
+    "anio": 2013,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "77",
+    "anio": 2013,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "37",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "105",
+    "anio": 2013,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "132",
+    "Sentencia B": "34",
+    "anio": 2013,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "133",
+    "Sentencia B": "119",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "134",
+    "Sentencia B": "42",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "134",
+    "Sentencia B": "107",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "134",
+    "Sentencia B": "109",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "134",
+    "Sentencia B": "133",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "137",
+    "Sentencia B": "133",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "137",
+    "Sentencia B": "136",
+    "anio": 2014,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "137",
+    "Sentencia B": "119",
+    "anio": 2014,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "138",
+    "Sentencia B": "100",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "138",
+    "Sentencia B": "34",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "138",
+    "Sentencia B": "116",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "138",
+    "Sentencia B": "14",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "138",
+    "Sentencia B": "132",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "139",
+    "Sentencia B": "103",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "139",
+    "Sentencia B": "133",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "139",
+    "Sentencia B": "122",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "139",
+    "Sentencia B": "57",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "73",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "75",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "85",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "138",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "78",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "101",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "103",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "140",
+    "Sentencia B": "47",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Obras Sanitarias"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "133",
+    "anio": 2014,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "134",
+    "anio": 2014,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "136",
+    "anio": 2014,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "119",
+    "anio": 2014,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "122",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "141",
+    "Sentencia B": "139",
+    "anio": 2014,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "142",
+    "Sentencia B": "29",
+    "anio": 2015,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "74",
+    "anio": 2015,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "79",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "133",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "136",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "137",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "141",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "139",
+    "anio": 2015,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "119",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "145",
+    "Sentencia B": "122",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "146",
+    "Sentencia B": "114",
+    "anio": 2015,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "146",
+    "Sentencia B": "123",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "146",
+    "Sentencia B": "98",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "146",
+    "Sentencia B": "126",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "146",
+    "Sentencia B": "132",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "147",
+    "Sentencia B": "86",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "147",
+    "Sentencia B": "9",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "147",
+    "Sentencia B": "103",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "147",
+    "Sentencia B": "65",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "147",
+    "Sentencia B": "145",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "148",
+    "Sentencia B": "145",
+    "anio": 2015,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "149",
+    "Sentencia B": "61",
+    "anio": 2016,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "149",
+    "Sentencia B": "75",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "149",
+    "Sentencia B": "114",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "149",
+    "Sentencia B": "131",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "151",
+    "Sentencia B": "142",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "153",
+    "Sentencia B": "104",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "153",
+    "Sentencia B": "88",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "153",
+    "Sentencia B": "151",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "131",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "75",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "103",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "139",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "153",
+    "anio": 2016,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "104",
+    "anio": 2016,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "151",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "13",
+    "anio": 2016,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "134",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "65",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "81",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "154",
+    "Sentencia B": "86",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "155",
+    "Sentencia B": "130",
+    "anio": 2016,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "147",
+    "anio": 2017,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "98",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "104",
+    "anio": 2017,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "126",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "131",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "93",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "76",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "156",
+    "Sentencia B": "88",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "138",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "109",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "112",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "123",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "126",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "141",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "43",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "55",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "57",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "59",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "60",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "62",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "66",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "70",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "75",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "76",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "83",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "157",
+    "Sentencia B": "96",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "158",
+    "Sentencia B": "156",
+    "anio": 2017,
+    "Frecuencia": 11,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "158",
+    "Sentencia B": "104",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "158",
+    "Sentencia B": "131",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "158",
+    "Sentencia B": "88",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "159",
+    "Sentencia B": "147",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "159",
+    "Sentencia B": "65",
+    "anio": 2017,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "160",
+    "Sentencia B": "65",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "160",
+    "Sentencia B": "133",
+    "anio": 2017,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "160",
+    "Sentencia B": "139",
+    "anio": 2017,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "161",
+    "Sentencia B": "147",
+    "anio": 2018,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "161",
+    "Sentencia B": "157",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "163",
+    "Sentencia B": "131",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "163",
+    "Sentencia B": "21",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "163",
+    "Sentencia B": "140",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "164",
+    "Sentencia B": "130",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "164",
+    "Sentencia B": "131",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "164",
+    "Sentencia B": "151",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "165",
+    "Sentencia B": "160",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "165",
+    "Sentencia B": "139",
+    "anio": 2018,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "165",
+    "Sentencia B": "158",
+    "anio": 2018,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "57",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "139",
+    "anio": 2019,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "141",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "145",
+    "anio": 2019,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "147",
+    "anio": 2019,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "119",
+    "anio": 2019,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "160",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "131",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "154",
+    "anio": 2019,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "103",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "159",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "148",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "158",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "167",
+    "Sentencia B": "165",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "168",
+    "Sentencia B": "98",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "168",
+    "Sentencia B": "114",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "168",
+    "Sentencia B": "138",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "168",
+    "Sentencia B": "142",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "169",
+    "Sentencia B": "114",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "169",
+    "Sentencia B": "138",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "170",
+    "Sentencia B": "162",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "171",
+    "Sentencia B": "160",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "171",
+    "Sentencia B": "167",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "171",
+    "Sentencia B": "165",
+    "anio": 2019,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "171",
+    "Sentencia B": "148",
+    "anio": 2019,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "167",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "141",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "145",
+    "anio": 2020,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "133",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "139",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "165",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "148",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "74",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "172",
+    "Sentencia B": "79",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "114",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "139",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "145",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "96",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "109",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "112",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "118",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "123",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "126",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "141",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "43",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "55",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "57",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "59",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "60",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "62",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "66",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "70",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "75",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "76",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "83",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "173",
+    "Sentencia B": "121",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "163",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "53",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "96",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "109",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "112",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "123",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "126",
+    "anio": 2020,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "141",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "43",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "55",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "57",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "59",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "60",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "62",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "66",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "70",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "75",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "76",
+    "anio": 2020,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "83",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "118",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "174",
+    "Sentencia B": "151",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "165",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "148",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "160",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "141",
+    "anio": 2020,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "94",
+    "anio": 2020,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "133",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "134",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "136",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "167",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "171",
+    "anio": 2020,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "74",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "145",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "175",
+    "Sentencia B": "119",
+    "anio": 2020,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "131",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "154",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "139",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "167",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "96",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "109",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "112",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "123",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "126",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "141",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "43",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "55",
+    "anio": 2021,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "57",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "59",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "60",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "62",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "66",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "70",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "75",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "76",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "83",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "174",
+    "anio": 2021,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "164",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "130",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "151",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "155",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "88",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "45",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "169",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "176",
+    "Sentencia B": "110",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "177",
+    "Sentencia B": "138",
+    "anio": 2021,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "177",
+    "Sentencia B": "100",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "177",
+    "Sentencia B": "162",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Concesiones"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "96",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "109",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "112",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "123",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "126",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "141",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "174",
+    "anio": 2021,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "43",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "55",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "57",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "59",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "60",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "62",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "66",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "70",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "75",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "76",
+    "anio": 2021,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "83",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "118",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "173",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "176",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "151",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "90",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "26",
+    "anio": 2021,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "130",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "155",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "178",
+    "Sentencia B": "164",
+    "anio": 2021,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "139",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "148",
+    "anio": 2022,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "160",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "167",
+    "anio": 2022,
+    "Frecuencia": 6,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "172",
+    "anio": 2022,
+    "Frecuencia": 7,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "141",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "145",
+    "anio": 2022,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "165",
+    "anio": 2022,
+    "Frecuencia": 9,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "67",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "171",
+    "anio": 2022,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "179",
+    "Sentencia B": "175",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "180",
+    "Sentencia B": "114",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "180",
+    "Sentencia B": "156",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "180",
+    "Sentencia B": "98",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Telecomunicaciones"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "76",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "174",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "9",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "65",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "140",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "176",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "164",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "131",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "181",
+    "Sentencia B": "130",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "182",
+    "Sentencia B": "166",
+    "anio": 2022,
+    "Frecuencia": 11,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "182",
+    "Sentencia B": "57",
+    "anio": 2022,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "otro",
+    "conducta1": "otro",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "183",
+    "Sentencia B": "181",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "183",
+    "Sentencia B": "176",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "183",
+    "Sentencia B": "164",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "183",
+    "Sentencia B": "131",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "183",
+    "Sentencia B": "169",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Alimentos"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "117",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "147",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "156",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "125",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "178",
+    "anio": 2022,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "174",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "176",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "164",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "75",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "184",
+    "Sentencia B": "77",
+    "anio": 2022,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Farmacéutico"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "179",
+    "anio": 2023,
+    "Frecuencia": 13,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "67",
+    "anio": 2023,
+    "Frecuencia": 12,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "160",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "167",
+    "anio": 2023,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "172",
+    "anio": 2023,
+    "Frecuencia": 6,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "145",
+    "anio": 2023,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "171",
+    "anio": 2023,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "136",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "165",
+    "anio": 2023,
+    "Frecuencia": 9,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "175",
+    "anio": 2023,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "133",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "43",
+    "anio": 2023,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "122",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "185",
+    "Sentencia B": "148",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "153",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "114",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "169",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "184",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "179",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "178",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "176",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "186",
+    "Sentencia B": "175",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "148",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "160",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "167",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "172",
+    "anio": 2023,
+    "Frecuencia": 7,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "185",
+    "anio": 2023,
+    "Frecuencia": 6,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "145",
+    "anio": 2023,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "133",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "171",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "136",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "165",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "179",
+    "anio": 2023,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "67",
+    "anio": 2023,
+    "Frecuencia": 6,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "187",
+    "Sentencia B": "43",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "188",
+    "Sentencia B": "160",
+    "anio": 2023,
+    "Frecuencia": 19,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Colusión",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "53",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "174",
+    "anio": 2023,
+    "Frecuencia": 7,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "96",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "173",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "176",
+    "anio": 2023,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "126",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "142",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "29",
+    "anio": 2023,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "129",
+    "anio": 2023,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "113",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "154",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "63",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "178",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "124",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "64",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "88",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "189",
+    "Sentencia B": "47",
+    "anio": 2023,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "190",
+    "Sentencia B": "90",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "190",
+    "Sentencia B": "175",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "174",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "173",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "115",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "160",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "175",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "191",
+    "Sentencia B": "179",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "176",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "167",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "139",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "103",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "117",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "178",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "125",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "186",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "174",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "160",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "172",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "185",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "47",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "192",
+    "Sentencia B": "83",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "175",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "141",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "136",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "133",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "169",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "193",
+    "Sentencia B": "176",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "98",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "156",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "180",
+    "anio": 2024,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "114",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "132",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "131",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "154",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "163",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "167",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "188",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "190",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "189",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "191",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "124",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "129",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "64",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "194",
+    "Sentencia B": "88",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "126",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "176",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "178",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "189",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "174",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "114",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "132",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "195",
+    "Sentencia B": "75",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "114",
+    "anio": 2024,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "186",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "138",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "190",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "184",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "196",
+    "Sentencia B": "77",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "83",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "160",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "167",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "172",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "185",
+    "anio": 2024,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "47",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "46",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "125",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "90",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "126",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "191",
+    "anio": 2024,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "189",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "176",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "174",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "1",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "197",
+    "Sentencia B": "179",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Materiales de construcción"
+  },
+  {
+    "Sentencia A": "198",
+    "Sentencia B": "178",
+    "anio": 2024,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "198",
+    "Sentencia B": "53",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "198",
+    "Sentencia B": "163",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "198",
+    "Sentencia B": "191",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Eléctrico"
+  },
+  {
+    "Sentencia A": "199",
+    "Sentencia B": "114",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "199",
+    "Sentencia B": "193",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "199",
+    "Sentencia B": "173",
+    "anio": 2024,
+    "Frecuencia": 5,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "199",
+    "Sentencia B": "167",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "199",
+    "Sentencia B": "172",
+    "anio": 2024,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Entretenimiento"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "176",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "167",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "139",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "156",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "180",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "98",
+    "anio": 2025,
+    "Frecuencia": 3,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "196",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "138",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "160",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "172",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "185",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "47",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "46",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "83",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "125",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "90",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "200",
+    "Sentencia B": "197",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Juegos de Azar"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "155",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "176",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "169",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "85",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "181",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "201",
+    "Sentencia B": "196",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "160",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "167",
+    "anio": 2025,
+    "Frecuencia": 4,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "172",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "185",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "176",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "139",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "103",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "189",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "191",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "192",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "186",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "190",
+    "anio": 2025,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "196",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "179",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "165",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "202",
+    "Sentencia B": "175",
+    "anio": 2025,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "otro",
+    "mercado": "Otros"
+  },
+  {
+    "Sentencia A": "41",
+    "Sentencia B": "33",
+    "anio": 2006,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Incumplimiento",
+    "mercado": "Financiero"
+  },
+  {
+    "Sentencia A": "43",
+    "Sentencia B": "33",
+    "anio": 2006,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Colusión",
+    "mercado": "Salud"
+  },
+  {
+    "Sentencia A": "65",
+    "Sentencia B": "9",
+    "anio": 2008,
+    "Frecuencia": 2,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Retail"
+  },
+  {
+    "Sentencia A": "71",
+    "Sentencia B": "23",
+    "anio": 2008,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Bebidas"
+  },
+  {
+    "Sentencia A": "81",
+    "Sentencia B": "44",
+    "anio": 2009,
+    "Frecuencia": 13,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "81",
+    "Sentencia B": "55",
+    "anio": 2009,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "CONDENATORIO",
+    "conducta1": "Abuso",
+    "mercado": "Transporte"
+  },
+  {
+    "Sentencia A": "89",
+    "Sentencia B": "77",
+    "anio": 2009,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Editorial"
+  },
+  {
+    "Sentencia A": "96",
+    "Sentencia B": "43",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Portuario"
+  },
+  {
+    "Sentencia A": "96",
+    "Sentencia B": "55",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Portuario"
+  },
+  {
+    "Sentencia A": "96",
+    "Sentencia B": "57",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Portuario"
+  },
+  {
+    "Sentencia A": "96",
+    "Sentencia B": "75",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Portuario"
+  },
+  {
+    "Sentencia A": "96",
+    "Sentencia B": "76",
+    "anio": 2010,
+    "Frecuencia": 1,
+    "tdlc_sentencia": "ABSOLUTORIO",
+    "conducta1": "Abuso",
+    "mercado": "Portuario"
+  }
+]
