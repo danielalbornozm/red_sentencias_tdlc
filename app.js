@@ -54,6 +54,20 @@ function calcularTop10() {
         .map(([key]) => key);
 }
 
+document.getElementById("resetFiltersButton").addEventListener("click", () => {
+    // Reiniciar selects a "Todos"
+    document.getElementById("conductaFilter").value = "Todos";
+    document.getElementById("mercadoFilter").value = "Todos";
+    document.getElementById("tdlcFilter").value = "Todos";
+    document.getElementById("anioFilter").value = "Todos";
+    document.getElementById("sentenciaFilter").value = "Todos";
+
+    // Recalcular los filtros posibles y redibujar red
+    actualizarFiltros();
+    renderizarRed();
+});
+
+
 let allNodes = [], allEdges = [];
 let network = null;
 
@@ -90,6 +104,59 @@ function inicializarFiltros() {
     llenarSelect("tdlcFilter", ["Todos", ...Array.from(tdlcSet).sort()]);
     llenarSelect("anioFilter", ["Todos", ...Array.from(anioSet).sort((a, b) => a - b)]);
     llenarSelect("sentenciaFilter", ["Todos", ...Array.from(sentenciaSet).sort((a, b) => a - b)]);
+}
+
+const filtros = ["conductaFilter", "mercadoFilter", "tdlcFilter", "anioFilter", "sentenciaFilter"];
+filtros.forEach(id => {
+    document.getElementById(id).addEventListener("change", () => {
+        actualizarFiltros();
+        renderizarRed();
+    });
+});
+
+function actualizarFiltros() {
+    const cf = document.getElementById("conductaFilter").value;
+    const mf = document.getElementById("mercadoFilter").value;
+    const tf = document.getElementById("tdlcFilter").value;
+    const af = document.getElementById("anioFilter").value;
+    const sf = document.getElementById("sentenciaFilter").value;
+
+    const baseFiltro = d =>
+        (cf === "Todos" || d["conducta1"] === cf) &&
+        (mf === "Todos" || d["mercado"] === mf) &&
+        (tf === "Todos" || d["tdlc_sentencia"] === tf) &&
+        (af === "Todos" || d["anio"].toString() === af.toString()) &&
+        (sf === "Todos" || d["Sentencia A"] === sf);
+
+    const filtrados = data.filter(baseFiltro);
+
+    const nuevaConducta = new Set();
+    const nuevoMercado = new Set();
+    const nuevoTDLC = new Set();
+    const nuevoAnio = new Set();
+    const nuevaSentencia = new Set();
+
+    filtrados.forEach(d => {
+        nuevaConducta.add(d["conducta1"]);
+        nuevoMercado.add(d["mercado"]);
+        nuevoTDLC.add(d["tdlc_sentencia"]);
+        nuevoAnio.add(d["anio"]);
+        nuevaSentencia.add(d["Sentencia A"]);
+    });
+
+    // No activamos eventos onchange para evitar doble render
+    llenarSelect("conductaFilter", ["Todos", ...Array.from(nuevaConducta).sort()]);
+    llenarSelect("mercadoFilter", ["Todos", ...Array.from(nuevoMercado).sort()]);
+    llenarSelect("tdlcFilter", ["Todos", ...Array.from(nuevoTDLC).sort()]);
+    llenarSelect("anioFilter", ["Todos", ...Array.from(nuevoAnio).sort((a, b) => a - b)]);
+    llenarSelect("sentenciaFilter", ["Todos", ...Array.from(nuevaSentencia).sort((a, b) => a - b)]);
+
+    // Restaurar los valores seleccionados previamente
+    document.getElementById("conductaFilter").value = cf;
+    document.getElementById("mercadoFilter").value = mf;
+    document.getElementById("tdlcFilter").value = tf;
+    document.getElementById("anioFilter").value = af;
+    document.getElementById("sentenciaFilter").value = sf;
 }
 
 
