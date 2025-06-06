@@ -12,6 +12,15 @@ const colores_mercado = {
     "Previsión Social": "mediumslateblue", "Computación": "tomato", "Bebidas": "mediumvioletred"
 };
 
+function capitalizar(texto) {
+    if (!texto || typeof texto !== "string") return "";
+    return texto
+        .toLowerCase()
+        .split(" ")
+        .map(p => p.charAt(0).toUpperCase() + p.slice(1))
+        .join(" ");
+}
+
 function generarLeyendaColores() {
     const contenedor = document.querySelector("#leyenda-colores div");
     for (const [mercado, color] of Object.entries(colores_mercado)) {
@@ -61,6 +70,16 @@ document.getElementById("resetFiltersButton").addEventListener("click", () => {
     document.getElementById("tdlcFilter").value = "Todos";
     document.getElementById("anioFilter").value = "Todos";
     document.getElementById("sentenciaFilter").value = "Todos";
+
+    // Reiniciar controles de física
+    document.getElementById("gravityRange").value = -3000;
+    document.getElementById("gravityValue").innerText = -3000;
+
+    document.getElementById("springLengthRange").value = 150;
+    document.getElementById("springLengthValue").innerText = 150;
+
+    // Limpiar info del nodo
+    document.getElementById("nodeInfoBox").innerHTML = "<em>Haz clic en un nodo para ver detalles.</em>";
 
     // Recalcular los filtros posibles y redibujar red
     actualizarFiltros();
@@ -163,15 +182,20 @@ function actualizarFiltros() {
 function llenarSelect(id, valores) {
     const select = document.getElementById(id);
     select.innerHTML = "";
+
+    const esAnio = id === "anioFilter";
+
     valores.forEach(v => {
         const opt = document.createElement("option");
         opt.value = v;
-        opt.textContent = v;
+        opt.textContent = esAnio ? v : capitalizar(v);
         if (v === "Todos") opt.selected = true;
         select.appendChild(opt);
     });
+
     select.onchange = renderizarRed;
 }
+
 
 
 function renderizarRed() {
@@ -210,7 +234,7 @@ function renderizarRed() {
                 to: to,
                 width: Math.min(Math.max(1, freq), 10),
                 title: `N° de citas: ${freq}`,
-                color: { color: `rgba(100, 100, 100, ${Math.min(0.3 + freq * 0.1, 1)})` }
+                color: { color: `rgba(180, 180, 180, ${Math.min(0.2 + freq * 0.08, 0.8)})` }
             };
         });
 
@@ -231,6 +255,7 @@ function renderizarRed() {
 
             return {
                 id,
+                label: id,
                 color,
                 shape,
                 title: `Sentencia: ${id}\nConducta: ${registro?.conducta1 || "N/D"}\nMercado: ${mercado}`
@@ -238,24 +263,22 @@ function renderizarRed() {
         });
 
         const container = document.getElementById("network");
+        const gravity = parseInt(document.getElementById("gravityRange").value);
+        const springLength = parseInt(document.getElementById("springLengthRange").value);
+
         const options = {
-            nodes: {
-                shape: "dot",
-                size: 16,
-                font: { size: 14 }
-            },
-            edges: {
-                arrows: { to: { enabled: false } },
-                smooth: { type: "continuous" }
-            },
+            nodes: { shape: "dot", size: 16, font: { size: 14 } },
+            edges: { arrows: { to: { enabled: true } }, smooth: { type: "continuous" } },
             interaction: { hover: true },
             physics: {
+                enabled: true,
                 barnesHut: {
-                    gravitationalConstant: -3000,
-                    springLength: 150
+                    gravitationalConstant: gravity,
+                    springLength: springLength
                 }
             }
         };
+
 
         const dataRed = {
             nodes: new vis.DataSet(nodes),
@@ -268,15 +291,35 @@ function renderizarRed() {
             network = new vis.Network(container, dataRed, options);
 
             network.on("click", function (params) {
-                if (params.nodes.length > 0) {
-                    const clickedNodeId = params.nodes[0];
-                    const tieneCitas = data.some(d => d["Sentencia A"].toString() === clickedNodeId);
-                    if (!tieneCitas) return;
+                const clickedNodeId = params.nodes[0];
+                if (!clickedNodeId) return;
+
+                // Mostrar info en el panel lateral
+                const registro = data.find(
+                    d => d["Sentencia A"].toString() === clickedNodeId || d["Sentencia B"].toString() === clickedNodeId
+                );
+
+                const infoBox = document.getElementById("nodeInfoBox");
+                if (registro && infoBox) {
+                    infoBox.innerHTML = `
+    <strong>Sentencia:</strong> ${clickedNodeId}<br>
+    <strong>Año:</strong> ${registro.anio || "No definido"}<br>
+    <strong>Conducta:</strong> ${capitalizar(registro.conducta1) || "No definida"}<br>
+    <strong>Mercado:</strong> ${capitalizar(registro.mercado) || "No definido"}<br>
+    <strong>Resultado:</strong> ${capitalizar(registro.tdlc_sentencia) || "No definido"}
+  `;
+                }
+
+
+                // Opcional: aplicar filtro por sentencia si hace clic
+                const tieneCitas = data.some(d => d["Sentencia A"].toString() === clickedNodeId);
+                if (tieneCitas) {
                     const select = document.getElementById("sentenciaFilter");
                     select.value = clickedNodeId;
                     renderizarRed();
                 }
             });
+
         }
 
         const infoBox = document.getElementById("info");
@@ -288,6 +331,35 @@ function renderizarRed() {
         document.getElementById("loader").style.display = "none";
     }, 50); // pequeño delay para asegurar que el loader aparezca
 }
+
+const controles = [
+    { inputId: "gravityRange", valueId: "gravityValue" },
+    { inputId: "springLengthRange", valueId: "springLengthValue" }
+];
+
+controles.forEach(({ inputId, valueId }) => {
+    document.getElementById(inputId).addEventListener("input", () => {
+        const value = document.getElementById(inputId).value;
+        document.getElementById(valueId).innerText = value;
+
+        if (network) {
+            const gravity = parseInt(document.getElementById("gravityRange").value);
+            const springLength = parseInt(document.getElementById("springLengthRange").value);
+
+            network.setOptions({
+                physics: {
+                    barnesHut: {
+                        gravitationalConstant: gravity,
+                        springLength: springLength
+                    }
+                }
+            });
+
+            network.stabilize();
+        }
+    });
+});
+
 
 
 let top10Active = false;

@@ -41,7 +41,6 @@
 
   <body class="bg-light">
     <div class="container-fluid py-4 px-5">
-
       <h2 class="text-dark bold text-center mb-4 h1">
         Red Interactiva de Sentencias del TDLC
       </h2>
@@ -70,7 +69,7 @@
         </div>
       </div>
 
-      <!-- Botones centrados -->
+      <!-- Botones -->
       <div class="d-flex justify-content-center align-items-center gap-3 mb-3">
         <button id="top10Button" class="btn btn-outline-primary">
           ⭐ Ver solo Top 10 citadas
@@ -80,7 +79,6 @@
         </button>
         <div id="info" class="fw-bold text-dark"></div>
       </div>
-
 
       <!-- Loader -->
       <div id="loader" class="text-center my-4" style="display: none">
@@ -92,35 +90,84 @@
         </p>
       </div>
 
-      <!-- Fila principal con tres columnas -->
-<div class="row mt-4">
-  <!-- Columna izquierda: Leyenda de formas -->
-  <div class="col-lg-2 col-md-3 mb-3" id="leyenda-formas">
-    <h5 class="text-primary">Formas por conducta</h5>
-    <ul class="list-unstyled small">
-      <li>🔵 <b>Círculo</b> = Abuso</li>
-      <li>🔺 <b>Triángulo</b> = Colusión</li>
-      <li>◼️ <b>Cuadrado</b> = Incumplimiento</li>
-      <li>🔶 <b>Rombo</b> = Otros</li>
-    </ul>
-  </div>
+      <!-- Layout principal -->
+      <div class="row mt-4">
+        <!-- Izquierda -->
+        <div class="col-lg-2 col-md-3 mb-3">
+          <h5 class="text-primary">Formas por conducta</h5>
+          <ul class="list-unstyled small">
+            <li>🔵 <b>Círculo</b> = Abuso</li>
+            <li>🔺 <b>Triángulo</b> = Colusión</li>
+            <li>◼️ <b>Cuadrado</b> = Incumplimiento</li>
+            <li>🔶 <b>Rombo</b> = Otros</li>
+          </ul>
 
-  <!-- Columna central: Red -->
-  <div class="col-lg-8 col-md-6 mb-3">
-    <div id="network" style="height: 600px; border: 1px solid #ddd; border-radius: 6px; background: #fff;"></div>
-    <div id="info" class="text-muted fw-bold mt-2"></div>
-  </div>
+          <!-- Cuadro dinámico con info del nodo -->
+          <h5 class="mt-4 text-primary">Información del nodo</h5>
+          <div
+            id="nodeInfoBox"
+            class="border rounded p-2 bg-white small text-dark"
+          >
+            <em>Haz clic en un nodo para ver detalles.</em>
+          </div>
+        </div>
 
-  <!-- Columna derecha: Leyenda de colores -->
-  <div class="col-lg-2 col-md-3 mb-3" id="leyenda-colores">
-    <h5 class="text-primary">Colores por mercado</h5>
-    <div class="d-flex flex-column gap-2 mt-2">
-      <!-- Aquí se insertan dinámicamente los colores -->
+        <!-- Centro -->
+        <div class="col-lg-8 col-md-6 mb-3">
+          <div
+            id="network"
+            style="
+              height: 600px;
+              border: 1px solid #ddd;
+              border-radius: 6px;
+              background: #fff;
+            "
+          ></div>
+          <div id="info" class="text-muted fw-bold mt-2"></div>
+          <div class="mt-3 p-3 bg-white rounded border">
+            <h5 class="text-primary">Ajustes de visualización</h5>
+            <div class="mb-2">
+              <label for="gravityRange" class="form-label"
+                >Gravedad entre nodos:
+                <span id="gravityValue">-3000</span></label
+              >
+              <input
+                type="range"
+                id="gravityRange"
+                min="-10000"
+                max="0"
+                step="100"
+                value="-3000"
+                class="form-range"
+              />
+            </div>
+            <div class="mb-2">
+              <label for="springLengthRange" class="form-label"
+                >Distancia entre nodos:
+                <span id="springLengthValue">150</span></label
+              >
+              <input
+                type="range"
+                id="springLengthRange"
+                min="50"
+                max="500"
+                step="10"
+                value="150"
+                class="form-range"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- Derecha -->
+        <div class="col-lg-2 col-md-3 mb-3" id="leyenda-colores">
+          <h5 class="text-primary">Colores por mercado</h5>
+          <div class="d-flex flex-column gap-2 mt-2">
+            <!-- Se insertan colores dinámicamente -->
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-
-
 
     <!-- Tu JS principal -->
     <script src="app.js"></script>
