@@ -302,12 +302,16 @@ function renderizarRed() {
                 const infoBox = document.getElementById("nodeInfoBox");
                 if (registro && infoBox) {
                     infoBox.innerHTML = `
-    <strong>Sentencia:</strong> ${clickedNodeId}<br>
-    <strong>Año:</strong> ${registro.anio || "No definido"}<br>
-    <strong>Conducta:</strong> ${capitalizar(registro.conducta1) || "No definida"}<br>
-    <strong>Mercado:</strong> ${capitalizar(registro.mercado) || "No definido"}<br>
-    <strong>Resultado:</strong> ${capitalizar(registro.tdlc_sentencia) || "No definido"}
-  `;
+  <strong>Sentencia:</strong> ${clickedNodeId}<br>
+  <strong>Año:</strong> ${registro.anio || "No definido"}<br>
+  <strong>Carátula:</strong> ${capitalizar(registro.caratula_tdlc) || "No disponible"}<br>
+  <strong>Conducta:</strong> ${capitalizar(registro.conducta1) || "No definida"}<br>
+  <strong>Mercado:</strong> ${capitalizar(registro.mercado) || "No definido"}<br>
+  <strong>Resultado:</strong> ${capitalizar(registro.tdlc_sentencia) || "No definido"}<br>
+  <strong>Ver sentencia:</strong>
+  <a href="${registro.permalink}" target="_blank" class="link-primary">Enlace</a>
+`;
+
                 }
 
 
