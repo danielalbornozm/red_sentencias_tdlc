@@ -371,7 +371,7 @@ document.getElementById("top10Button").addEventListener("click", () => {
     top10Active = !top10Active;
     const btn = document.getElementById("top10Button");
     btn.classList.toggle("active", top10Active);
-    btn.innerText = top10Active ? "🔁 Ver todas las sentencias" : "⭐ Ver solo Top 10 citadas";
+    btn.innerText = top10Active ? "🔁 Ver todas las sentencias" : "⭐ Top 10 sentencias citadas";
     renderizarRed();
 });
 
