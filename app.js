@@ -1,5 +1,19 @@
+// app.js
+
+// Definimos una variable data
 let data = [];
-// 🎨 Colores por mercado
+
+// Definimos una función para Capitalizar los textos
+function capitalizar(texto) {
+    if (!texto || typeof texto !== "string") return "";
+    return texto
+        .toLowerCase()
+        .split(" ")
+        .map(p => p.charAt(0).toUpperCase() + p.slice(1))
+        .join(" ");
+}
+
+// Definimos colores por mercado
 const colores_mercado = {
     "Otros": "gray", "Obras Sanitarias": "blue", "Portuario": "cyan", "Editorial": "orange",
     "Retail": "green", "Alimentos": "sienna", "Farmacéutico": "purple", "Concesiones": "navy",
@@ -12,15 +26,7 @@ const colores_mercado = {
     "Previsión Social": "mediumslateblue", "Computación": "tomato", "Bebidas": "mediumvioletred"
 };
 
-function capitalizar(texto) {
-    if (!texto || typeof texto !== "string") return "";
-    return texto
-        .toLowerCase()
-        .split(" ")
-        .map(p => p.charAt(0).toUpperCase() + p.slice(1))
-        .join(" ");
-}
-
+// Definimos una función para generar la simbología de colores por mercado
 function generarLeyendaColores() {
     const contenedor = document.querySelector("#leyenda-colores div");
     for (const [mercado, color] of Object.entries(colores_mercado)) {
@@ -48,9 +54,10 @@ function generarLeyendaColores() {
     }
 }
 
-
+// Definimos una variable para el Top 10 de sentencias
 let top10Sentencias = [];
 
+// Definimos una función para calcular el Top 10 de sentencias
 function calcularTop10() {
     const counts = {};
     data.forEach(d => {
@@ -63,6 +70,7 @@ function calcularTop10() {
         .map(([key]) => key);
 }
 
+// Funacionalidad del botón para resetear los filtros, controles e info del nodo
 document.getElementById("resetFiltersButton").addEventListener("click", () => {
     // Reiniciar selects a "Todos"
     document.getElementById("conductaFilter").value = "Todos";
@@ -86,10 +94,11 @@ document.getElementById("resetFiltersButton").addEventListener("click", () => {
     renderizarRed();
 });
 
-
+// Definimos variables para nodos, aristas y la red
 let allNodes = [], allEdges = [];
 let network = null;
 
+// Definimos una función para cargar los datos
 function cargarDatos() {
     fetch("red_sentencias.json")
         .then(res => res.json())
@@ -101,7 +110,7 @@ function cargarDatos() {
         });
 }
 
-
+// Definimos una función para inicializar los filtros
 function inicializarFiltros() {
     const conductaSet = new Set();
     const mercadoSet = new Set();
@@ -125,6 +134,7 @@ function inicializarFiltros() {
     llenarSelect("sentenciaFilter", ["Todos", ...Array.from(sentenciaSet).sort((a, b) => a - b)]);
 }
 
+// Definimos una variable para actualizar dinámicamente los filtros
 const filtros = ["conductaFilter", "mercadoFilter", "tdlcFilter", "anioFilter", "sentenciaFilter"];
 filtros.forEach(id => {
     document.getElementById(id).addEventListener("change", () => {
@@ -133,6 +143,7 @@ filtros.forEach(id => {
     });
 });
 
+// Definimos una función para actualizar dinámicamente los filtros
 function actualizarFiltros() {
     const cf = document.getElementById("conductaFilter").value;
     const mf = document.getElementById("mercadoFilter").value;
@@ -178,7 +189,7 @@ function actualizarFiltros() {
     document.getElementById("sentenciaFilter").value = sf;
 }
 
-
+// Definimos una función para incorporar los valores de los filtros
 function llenarSelect(id, valores) {
     const select = document.getElementById(id);
     select.innerHTML = "";
@@ -196,8 +207,7 @@ function llenarSelect(id, valores) {
     select.onchange = renderizarRed;
 }
 
-
-
+// Definimos una función para renderizar la red
 function renderizarRed() {
     // Mostrar loader
     document.getElementById("loader").style.display = "block";
@@ -315,7 +325,7 @@ function renderizarRed() {
                 }
 
 
-                // Opcional: aplicar filtro por sentencia si hace clic
+                // Aplicar filtro por sentencia si hace clic
                 const tieneCitas = data.some(d => d["Sentencia A"].toString() === clickedNodeId);
                 if (tieneCitas) {
                     const select = document.getElementById("sentenciaFilter");
@@ -336,11 +346,13 @@ function renderizarRed() {
     }, 50); // pequeño delay para asegurar que el loader aparezca
 }
 
+// Definimos una variable de controles de ajustes de visulización de la red
 const controles = [
     { inputId: "gravityRange", valueId: "gravityValue" },
     { inputId: "springLengthRange", valueId: "springLengthValue" }
 ];
 
+// Definimos una funcionalidad para generar la dinámica de ajustes en la visualización de la red
 controles.forEach(({ inputId, valueId }) => {
     document.getElementById(inputId).addEventListener("input", () => {
         const value = document.getElementById(inputId).value;
@@ -364,9 +376,10 @@ controles.forEach(({ inputId, valueId }) => {
     });
 });
 
-
-
+// Definimos una variable para la dinámica al presionar el botón Top 10
 let top10Active = false;
+
+// Definimos una funcionalidad para la dinámica al presionar el botón Top 10
 document.getElementById("top10Button").addEventListener("click", () => {
     top10Active = !top10Active;
     const btn = document.getElementById("top10Button");
@@ -375,6 +388,8 @@ document.getElementById("top10Button").addEventListener("click", () => {
     renderizarRed();
 });
 
+// activamos la función generarLeyendaColores
 generarLeyendaColores();
 
+// Activamos la función cargarDatos
 cargarDatos();
