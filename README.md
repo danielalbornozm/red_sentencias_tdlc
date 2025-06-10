@@ -39,7 +39,6 @@ RED_SENTENCIAS_TDLC/
 
 https://red-sentencias-tdlc.vercel.app/
 
-
 ## 🧠 Datos
 
 El archivo `red_sentencias.json` contiene objetos con relaciones del tipo:
@@ -60,10 +59,7 @@ El archivo `red_sentencias.json` contiene objetos con relaciones del tipo:
 
 ## 📌 Consideraciones
 
-- Asegúrate de tener conexión a Internet para cargar Bootstrap y Vis.js desde CDN.
-- El proyecto está diseñado para ser ejecutado localmente, sin necesidad de servidor backend.
 - El proyecto extrajo citas de 203 sentencias dictadas en causas contenciosas por el TDLC hasta el 09 de junio de 2025.
-
 
 ## 📄 Autores
 
