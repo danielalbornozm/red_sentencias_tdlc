@@ -70,7 +70,7 @@ function calcularTop10() {
         .map(([key]) => key);
 }
 
-// Funacionalidad del botón para resetear los filtros, controles e info del nodo
+// Funcionalidad del botón para resetear los filtros, controles e info del nodo
 document.getElementById("resetFiltersButton").addEventListener("click", () => {
     // Reiniciar selects a "Todos"
     document.getElementById("conductaFilter").value = "Todos";
@@ -305,32 +305,37 @@ function renderizarRed() {
                 if (!clickedNodeId) return;
 
                 // Mostrar info en el panel lateral
-                const registro = data.find(
-                    d => d["Sentencia A"].toString() === clickedNodeId || d["Sentencia B"].toString() === clickedNodeId
-                );
-
-                const infoBox = document.getElementById("nodeInfoBox");
-                if (registro && infoBox) {
-                    infoBox.innerHTML = `
-  <strong>Sentencia:</strong> ${clickedNodeId}<br>
-  <strong>Año:</strong> ${registro.anio || "No definido"}<br>
-  <strong>Carátula:</strong> ${capitalizar(registro.caratula_tdlc) || "No disponible"}<br>
-  <strong>Conducta:</strong> ${capitalizar(registro.conducta1) || "No definida"}<br>
-  <strong>Mercado:</strong> ${capitalizar(registro.mercado) || "No definido"}<br>
-  <strong>Resultado:</strong> ${capitalizar(registro.tdlc_sentencia) || "No definido"}<br>
-  <strong>Ver sentencia:</strong>
-  <a href="${registro.permalink}" target="_blank" class="link-primary">Enlace</a>
-`;
-
-                }
-
-
-                // Aplicar filtro por sentencia si hace clic
                 const tieneCitas = data.some(d => d["Sentencia A"].toString() === clickedNodeId);
+
+                // Mostrar info solo si el nodo tiene conexiones salientes
                 if (tieneCitas) {
-                    const select = document.getElementById("sentenciaFilter");
-                    select.value = clickedNodeId;
-                    renderizarRed();
+                    const registro = data.find(
+                        d => d["Sentencia A"].toString() === clickedNodeId || d["Sentencia B"].toString() === clickedNodeId
+                    );
+
+                    const infoBox = document.getElementById("nodeInfoBox");
+                    if (registro && infoBox) {
+                        infoBox.innerHTML = `
+      <strong>Sentencia:</strong> ${clickedNodeId}<br>
+      <strong>Año:</strong> ${registro.anio || "No definido"}<br>
+      <strong>Carátula:</strong> ${capitalizar(registro.caratula_tdlc) || "No disponible"}<br>
+      <strong>Conducta:</strong> ${capitalizar(registro.conducta1) || "No definida"}<br>
+      <strong>Mercado:</strong> ${capitalizar(registro.mercado) || "No definido"}<br>
+      <strong>Resultado:</strong> ${capitalizar(registro.tdlc_sentencia) || "No definido"}<br>
+      <strong>Ver sentencia:</strong>
+      <a href="${registro.permalink}" target="_blank" class="link-primary">Enlace</a>
+    `;
+
+                        // Aplicar filtro por sentencia
+                        const select = document.getElementById("sentenciaFilter");
+                        select.value = "Todos";
+                        actualizarFiltros();
+                        select.value = clickedNodeId;
+                        renderizarRed();
+                    }
+                } else {
+                    // Si no tiene conexiones salientes, limpia la info del nodo
+                    document.getElementById("nodeInfoBox").innerHTML = "<em>El nodo seleccionado no tiene conexiones.</em>";
                 }
             });
 
@@ -388,7 +393,7 @@ document.getElementById("top10Button").addEventListener("click", () => {
     renderizarRed();
 });
 
-// activamos la función generarLeyendaColores
+// Activamos la función generarLeyendaColores
 generarLeyendaColores();
 
 // Activamos la función cargarDatos
